@@ -1,0 +1,9 @@
+count: 3
+jobs:
+- engineer
+- programmer
+- manager
+jobs_salary:
+  engineer: 500€
+  manager: 700€
+  programmer: 600€
